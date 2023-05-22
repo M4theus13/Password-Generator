@@ -15,6 +15,15 @@ slider.oninput = function(){
 
 function generatePassword() {
     let pass = ''
+    let copy = document.querySelector('#copy')
+    
+    copy.style.animation = 'none'
+
+    setTimeout(function() {
+        // Aplique a animação ao elemento
+        copy.style.animation = 'copy 1s linear';
+      }, 10);
+
     for(let i = 0, n = charset.length; i < slider.value; i++){
         pass += charset.charAt(Math.floor(Math.random() * n))
     }
@@ -24,6 +33,5 @@ function generatePassword() {
 }
 
 function copyPassword(){
-    alert('Senha copiada com sucesso!')
     navigator.clipboard.writeText(newPassword) // copia oque esta na variavel
 }
