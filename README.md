@@ -20,14 +20,14 @@
 <h2>Resultado</h2>
 <h3>Desktop</h3>
 <a href='https://github.com/M4theus13'>
-	<img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/desktop.png">
-	<img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/desktop(1).png">
+	<img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/desktop.png">
+	<img width="100%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/desktop(1).png">
 </a>
 
 <h3>Tablet</h3>
 <a href='https://github.com/M4theus13'>
-	<img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/tablet.png">
-	<img width="39%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/tablet(1).png">
+	<img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/tablet.png">
+	<img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Password-Generator/tablet(1).png">
 </a>
 
 <h3>Mobile</h3>
