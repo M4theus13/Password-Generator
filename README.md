@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/M4theus13/Password-Generator#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
- <a href="https://github.com/M4theus13/Password-Generator#resultados">Resultados</a> • 
+ <a href="https://github.com/M4theus13/Password-Generator#resultado">Resultados</a> • 
  <a href="https://github.com/M4theus13/Password-Generator#--tecnologias-">Tecnologias</a>
 </p>
 
